@@ -23,7 +23,7 @@ const config = {
         fill: {
           1: "rgba(255, 255, 255, 0.10)",
         },
-        bankGradient: "#0179FE",
+        bankGradient: "#FC7B02",
         indigo: {
           500: "#6172F3",
           700: "#3538CD",
@@ -51,6 +51,14 @@ const config = {
           600: "#1570EF",
           700: "#175CD3",
           900: "#194185",
+        },
+        orange: {
+          25: "#FFEDE8",
+          100: "#FCBBA9",
+          500: "#FF6A3E",
+          600: "#F24318",
+          700: "#D33917",
+          900: "#932F19",
         },
         sky: {
           1: "#F3F9FF",
